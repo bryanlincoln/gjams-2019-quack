@@ -1,6 +1,6 @@
 # Quack
-Quack is an Unity3D game made for Global Game Jam 2019 with "What home means to you?" as theme.
-The game consists in a happy chicken that aims to build a new home for it's children. You have to collect sticks and group them in top of the main tree to make a nice nest.
+Quack is an Unity3D game made for the Global Game Jam 2019 with theme "What home means to you?".
+The game consists in a happy chicken that wants to build a new home for it's children. You have to collect sticks and group them in top of the main tree to make a nice nest.
 
 ![Quack](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/263393/menu.png?itok=veRqhjix&timestamp=1548611925) ![Quack2](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/ingame3_9.png?itok=Xuf3MZan&timestamp=1548611547)
 
