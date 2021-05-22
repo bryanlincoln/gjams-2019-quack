@@ -1,5 +1,5 @@
 # Quack
-Quack is a Unity3D game made for the Global Game Jam 2019 with theme "What home means to you?".
+Quack is a Unity3D game made for the Global Game Jam 2019 with theme "What home means to you?" ([check out the game's entry here](https://globalgamejam.org/2019/games/quack)).
 The game consists in a happy chicken that wants to build a new home for it's children. You have to collect sticks and group them in top of the main tree to make a nice nest.
 
 ![Quack](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/263393/menu.png?itok=veRqhjix&timestamp=1548611925) ![Quack2](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/ingame3_9.png?itok=Xuf3MZan&timestamp=1548611547)
@@ -13,8 +13,8 @@ The game consists in a happy chicken that wants to build a new home for it's chi
 ## Credits
 This game was made by a group of 3 computer science students located in Goiânia, Brazil. This game was developed within 12 hours.
  - Bryan (me, bryanufg@gmail.com) programmed and modeled;
- - Luana (luanagbmartins@gmail.com) programmed and designed the level;
- - Rennan (rennanelit@gmail.com) designed the game and the sounds.
+ - Luana ([@luanagbmartins](https://github.com/luanagbmartins) / luanagbmartins@gmail.com) programmed and designed the level;
+ - Rennan ([@rennan11](https://github.com/rennan11) / rennanelit@gmail.com) designed the game and the sounds.
  
-In-game sound effects provided by Soundsnap.
-In-game font "Gloria Hallelujah" provided by Kimberly Geswein.
+In-game sound effects downloaded from Soundsnap.
+In-game font "Gloria Hallelujah" by Kimberly Geswein, downloaded from Google Fonts.
